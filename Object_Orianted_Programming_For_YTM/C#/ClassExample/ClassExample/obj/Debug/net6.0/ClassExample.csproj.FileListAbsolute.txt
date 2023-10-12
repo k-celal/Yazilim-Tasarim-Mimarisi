@@ -1,0 +1,14 @@
+C:\Users\Celal\Documents\Yazilim-Tasarim-Mimarisi\Object_Orianted_Programming_For_YTM\C#\ClassExample\ClassExample\bin\Debug\net6.0\ClassExample.exe
+C:\Users\Celal\Documents\Yazilim-Tasarim-Mimarisi\Object_Orianted_Programming_For_YTM\C#\ClassExample\ClassExample\bin\Debug\net6.0\ClassExample.deps.json
+C:\Users\Celal\Documents\Yazilim-Tasarim-Mimarisi\Object_Orianted_Programming_For_YTM\C#\ClassExample\ClassExample\bin\Debug\net6.0\ClassExample.runtimeconfig.json
+C:\Users\Celal\Documents\Yazilim-Tasarim-Mimarisi\Object_Orianted_Programming_For_YTM\C#\ClassExample\ClassExample\bin\Debug\net6.0\ClassExample.dll
+C:\Users\Celal\Documents\Yazilim-Tasarim-Mimarisi\Object_Orianted_Programming_For_YTM\C#\ClassExample\ClassExample\bin\Debug\net6.0\ClassExample.pdb
+C:\Users\Celal\Documents\Yazilim-Tasarim-Mimarisi\Object_Orianted_Programming_For_YTM\C#\ClassExample\ClassExample\obj\Debug\net6.0\ClassExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Celal\Documents\Yazilim-Tasarim-Mimarisi\Object_Orianted_Programming_For_YTM\C#\ClassExample\ClassExample\obj\Debug\net6.0\ClassExample.AssemblyInfoInputs.cache
+C:\Users\Celal\Documents\Yazilim-Tasarim-Mimarisi\Object_Orianted_Programming_For_YTM\C#\ClassExample\ClassExample\obj\Debug\net6.0\ClassExample.AssemblyInfo.cs
+C:\Users\Celal\Documents\Yazilim-Tasarim-Mimarisi\Object_Orianted_Programming_For_YTM\C#\ClassExample\ClassExample\obj\Debug\net6.0\ClassExample.csproj.CoreCompileInputs.cache
+C:\Users\Celal\Documents\Yazilim-Tasarim-Mimarisi\Object_Orianted_Programming_For_YTM\C#\ClassExample\ClassExample\obj\Debug\net6.0\ClassExample.dll
+C:\Users\Celal\Documents\Yazilim-Tasarim-Mimarisi\Object_Orianted_Programming_For_YTM\C#\ClassExample\ClassExample\obj\Debug\net6.0\refint\ClassExample.dll
+C:\Users\Celal\Documents\Yazilim-Tasarim-Mimarisi\Object_Orianted_Programming_For_YTM\C#\ClassExample\ClassExample\obj\Debug\net6.0\ClassExample.pdb
+C:\Users\Celal\Documents\Yazilim-Tasarim-Mimarisi\Object_Orianted_Programming_For_YTM\C#\ClassExample\ClassExample\obj\Debug\net6.0\ClassExample.genruntimeconfig.cache
+C:\Users\Celal\Documents\Yazilim-Tasarim-Mimarisi\Object_Orianted_Programming_For_YTM\C#\ClassExample\ClassExample\obj\Debug\net6.0\ref\ClassExample.dll

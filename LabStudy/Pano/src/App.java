@@ -6,7 +6,7 @@ public class App {
         Dikdortgen dk1= new Dikdortgen(10, 15);
         Daire d1= new Daire(20);
         Ucgen u1 = new Ucgen(5, 10);
-
+        
         ArrayList<Sekil> liste = new ArrayList<>();
         liste.add(kare1);
         liste.add(dk1);

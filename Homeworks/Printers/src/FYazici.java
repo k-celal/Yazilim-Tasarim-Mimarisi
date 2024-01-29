@@ -36,6 +36,7 @@ class YaziciProcess {
     public void Tara() {
         if (!(yazici instanceof Tarayabilir)) {
             System.out.println("Bu yazici tarama yapamaz");
+            
         }
         ((Tarayabilir) yazici).Tara();
     }
@@ -45,9 +46,9 @@ class Program {
         YaziciProcess p = new YaziciProcess(new Yazici1());
         p.Yazdir();
         p.Tara();
-
         p = new YaziciProcess(new Yazici2());
         p.Yazdir();
         p.Tara();
+        
     }
 }
